@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Ubuntu&display=swap");
+
+@import "tailwindcss";
+
+.ubuntu {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.mont {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+* {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.trans {
+  transition: 0.4s;
+}
+
+.trans-right:hover {
+  transform: translate(5px, 0);
+}
+
+* {
+  scroll-behavior: smooth;
+}
