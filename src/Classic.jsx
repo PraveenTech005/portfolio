@@ -130,7 +130,7 @@ const Classic = () => {
         "Custombot is an AI chatbot that dynamically adapts to any website's content. By inputting a site URL, the bot scrapes the site's data and uses it as the knowledge base to answer user questions contextually. It leverages the language model via the Groq API to provide fast, accurate, and relevant responses. This project showcases my ability to integrate real-time web scraping, natural language processing, and third-party AI APIs to build intelligent user-facing tools.",
       type: "AI / Web App",
       var: 1,
-      image: "/projects/chatbot.png",
+      image: "/projects/chat.png",
       date: "June 2025",
       url: "https://github.com/PraveenTech005/Custombot",
     },
