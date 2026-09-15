@@ -1,0 +1,9 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Disallow build / internal artifacts if any
+Disallow: /src/
+
+# Sitemap location
+Sitemap: https://praveentech005.vercel.app/sitemap.xml
