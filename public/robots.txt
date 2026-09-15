@@ -6,4 +6,4 @@ Allow: /
 Disallow: /src/
 
 # Sitemap location
-Sitemap: https://praveentech005.vercel.app/sitemap.xml
+Sitemap: https://praveentech.me/sitemap.xml
